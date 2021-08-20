@@ -41,7 +41,6 @@
     <br />
     <br />
   </p>
-</p>
 
 
 
@@ -60,7 +59,6 @@
     </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    </li>
   </ol>
 </details>
 
@@ -74,8 +72,8 @@
 
 ### Built With
 
-* [](Gradle)
-* [](Android Studio Arctic Fox)
+* Gradle
+* Android Studio Arctic Fox
 
 
 
